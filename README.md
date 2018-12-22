@@ -1,5 +1,5 @@
 # Interface-graphique-JARVIS-V2-Add-On-04
-Add-On n° 3 contenant plusieurs plaques de noms supplémentaires sur le thème SteamPunk pour JARVIS-V2
+Add-On n° 4 contenant plusieurs plaques de noms supplémentaires sur le thème SteamPunk pour JARVIS-V2
 
 Interface réalisée pour EVIE (version S.A.R.A.H de Hervé le Hibou), mais qui fonctionne pour tous les sons sortant du PC.
 
